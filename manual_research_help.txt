@@ -1,0 +1,21 @@
+
+# Manual Research Helper
+# Since automated scraping failed, use these search queries:
+
+Google Searches:
+- "site:linkedin.com Puri Legal Services"
+- "Puri Legal Services email phone Toronto"
+- "Puri Legal Services reviews contact"
+- "Puri Legal Services lawyer directory"
+
+Business Directories:
+- Yellow Pages Canada
+- Yelp Canada  
+- Better Business Bureau
+- Canadian Legal Directories
+
+Tips:
+1. Search for the business name + "contact"
+2. Look for LinkedIn profiles
+3. Check business registration databases
+4. Search for the domain name + "email"
