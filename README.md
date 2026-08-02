@@ -7,7 +7,7 @@
 **Entry Point**: `not detected`  
 **Codebase**: 2 source files, 1291 lines of production‑ready code  
 **Architecture**: Object‑oriented  
-**Key Components**: 3 class(es): WebScraperHandler, UltimateScraper, BusinessScraper, 22 function(s): do_POST, find_additional_links, scrape_website, extract_emails, save_results
+**Key Components**: 3 class(es): BusinessScraper, UltimateScraper, WebScraperHandler, 22 function(s): crawl_page, setup_driver, extract_emails, extract_phones, crawl_website
 
 This project contains 3 class(es) and 22 function(s).
 
@@ -24,9 +24,9 @@ This project contains 3 class(es) and 22 function(s).
 - **Competitive Advantage**: Provides real‑time intelligence that outpaces competitors.
 - **Future‑Proof**: Designed to integrate with emerging AI and cloud technologies.
 
-## 🧠 My Approach: The Full-Stack Pragmatist
+## 🧠 My Approach: The Lean Innovator
 
-I span the entire stack – from database design to UI components. I make pragmatic choices that balance speed, cost, and quality.
+I adopt a lean approach to software delivery – build, measure, learn. I focus on experiments, user validation, and rapid iteration.
 
 ### 📌 My Focus & Track Record
 - **Role**: Conversational Interaction Specialist
@@ -38,7 +38,7 @@ I span the entire stack – from database design to UI components. I make pragma
 ### 🎯 Why This Project Exists
 **scraper** is a direct reflection of this approach – a practical, battle‑tested component designed to solve a specific, high‑value business problem.
 
-**For Growing Teams**: I am a versatile engineer who can fill gaps across the development lifecycle.
+**For Innovation Teams**: I help validate ideas quickly without wasting resources.
 
 I am open to conversations about how I can apply this mindset to your organisation.
 ## 🎯 Revenue‑Generating Use Cases
@@ -49,14 +49,13 @@ I am open to conversations about how I can apply this mindset to your organisati
 ## 💡 Benefits & Ecosystem Integration
 
 ### ✨ Key Benefits
-- Scalability: Designed to handle growing volumes without proportional cost increases.
-- High Availability & Uptime: Ensures mission‑critical systems are always accessible to users.
+- Reduced Technical Debt: Maintains clean, modular, and well‑tested codebases that are easy to extend.
+- Cost Reduction: Lowers infrastructure and operational costs through intelligent automation.
 - Increased Conversion Rates: Optimises user journeys and funnels to drive revenue.
-- Risk Reduction: Automates compliance checks and error‑prone processes, minimising human error.
-- Enhanced Data Privacy: Protects sensitive user data with rigorous encryption and access controls.
+- Sustainable Architecture: Reduces energy consumption, aligning technology with environmental goals.
 - Real‑Time Monitoring & Observability: Provides deep system visibility, enabling proactive issue resolution.
-- Data‑Driven Decisions: Provides real‑time, accurate insights that inform strategic direction.
-- Enhanced Security Posture: Builds robust threat defence and data privacy into the application architecture.
+- Revenue Acceleration: Directly impacts top‑line growth by enabling faster time‑to‑market and personalisation.
+- Personalised Customer Experiences: Delivers tailored interactions based on user behaviour and preferences.
 
 ### 🔗 Integrations
 - REST / GraphQL APIs (external services)
@@ -64,9 +63,9 @@ I am open to conversations about how I can apply this mindset to your organisati
 
 ## 📈 Scale to SaaS & Beyond
 
-- API Monetisation: Wrap the core logic in a REST/GraphQL API and sell access via a subscription model.
-- Analytics Dashboard: Add real‑time monitoring and business intelligence dashboards.
 - CI/CD Pipeline: Integrate GitHub Actions to automate testing and deployment with every commit.
+- API Monetisation: Wrap the core logic in a REST/GraphQL API and sell access via a subscription model.
+- Cloud Deployment: Containerise with Docker and deploy to AWS, GCP, or Azure for global availability.
 
 ## 🤖 AI Tools & Integrations (A–Z)
 
@@ -127,6 +126,24 @@ This project is designed to integrate seamlessly with a wide range of AI tools a
 | **ZenML** | MLOps framework for reproducible pipelines. |
 
 *This is a living list – new tools are constantly emerging. The modular design of this project makes it easy to plug in any AI service.*
+## 💻 AI Code Generation Tools (Free & Paid)
+
+To accelerate development, you can integrate these AI tools for code generation, autocompletion, and documentation. Pricing models are noted below.
+
+| Tool | Description | Pricing |
+| :--- | :--- | :--- |
+| **GitHub Copilot** | AI pair programmer. Free for open-source and verified students; paid plans from $10/month. | Freemium |
+| **Tabnine** | AI code completion for multiple languages. Free tier available; paid Pro from $12/month. | Freemium |
+| **Codeium** | AI-powered autocomplete and chat. Completely free for individual developers. | Free |
+| **Cursor** | AI-first code editor with built-in Copilot-like features. Free tier available; paid plans start at $20/month. | Freemium |
+| **Amazon CodeWhisperer** | AWS service for real‑time code suggestions. Free tier included; paid with AWS subscription. | Freemium |
+| **Replit Ghostwriter** | AI assistant in Replit's online IDE. Free tier included; paid plans from $7/month. | Freemium |
+| **Bito AI** | Code generation and explanation. Free for individuals; paid team plans. | Freemium |
+| **Sourcegraph Cody** | AI assistant for code understanding and generation. Free for individuals and open-source; paid for enterprise. | Freemium |
+| **Mintlify** | AI-powered documentation generator. Free tier; paid plans for teams. | Freemium |
+| **MightyMeld** | AI for React component generation. Free trial; paid plans from $15/month. | Freemium |
+
+*Most tools offer free tiers – perfect for personal projects and learning. Paid plans unlock higher limits and team features.*
 
 ## 📁 Project Structure
 ## 🚀 Full Program Guide (How to Run)
